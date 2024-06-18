@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  width: 1349px;
+  height: 269px;
+  background-color: black;
+  color: white;
+}
+
+header h1 {
+  font-size: 136.6px;
+  font-family: "pession one", cursive;
+}
+
+header p {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0px 0px 50px;
+}
